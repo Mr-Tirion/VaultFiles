@@ -1,0 +1,6 @@
+@VaultFiles.Web_HostAddress = http://localhost:5149
+
+GET {{VaultFiles.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
